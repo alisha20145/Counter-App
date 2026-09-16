@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+#increment{
+    background-color: red;
+    color:white;
+    border-color: red;
+    font-weight: bolder;
+    border-radius: 4px;
+}
+#decrement{
+    background-color: blue;
+    color:white;
+    font-weight: bolder;
+    border-radius: 4px;
+}
+#reset{
+    background-color:rgb(64, 186, 227);
+    color:white;
+    font-weight: bolder;
+    border-radius: 4px;
+}
+#timer{
+    font-weight: bolder;
+    font-size: xx-large;
+}
